@@ -14,5 +14,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/mysql-connector-java-5.1.24-bin.jar"/>
+	<classpathentry kind="lib" path="H:/workspacez/ejb/docs/hibernate3.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
